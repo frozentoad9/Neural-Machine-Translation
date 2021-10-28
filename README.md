@@ -16,7 +16,7 @@ Calculating the attention weights is done with another feed-forward layer, using
 
 #### Usage
 
-This will take the file kept in **data** folder. Default eng-fra.txt. 
+This will take the file kept in **data** folder. Default eng-hin.txt. 
 
     run : python main.py
 
