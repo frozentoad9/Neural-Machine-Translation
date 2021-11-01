@@ -1,4 +1,6 @@
 # Neural-Machine-Translation
+
+***This project was done as a part of a hackathon conducted by IIT Bombay***
 This is an implementation of Neural Machine Translation using Encoder-Decoder Mechanism along with Attention Mechanism -  (https://arxiv.org/pdf/1409.0473.pdf) introduced in 2016.
 The Encoder-decoder architecture in general uses an encoder that encodes a source sentence into a fixed-length vector from which a decoder generates a translation. This paper conjecture that the use of a fixed-length vector is a bottleneck in improving the performance of this basic encoder-decoder architecture, and propose to extend this by allowing a model to automatically (soft-)search for parts of a source sentence that are relevant to predicting a target word, without having to form these parts as a hard segment explicitly.
 
